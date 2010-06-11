@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.mobl_lang.feature_0.1.0.jar" id="org.mobl_lang.feature" version="0.1">
+      <category name="mobl"/>
+   </feature>
+   <category-def name="mobl" label="mobl language">
+      <description>
+         A language for developing mobile web applications
+      </description>
+   </category-def>
+</site>
