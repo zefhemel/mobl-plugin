@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sshsync * zef@zerver2.zef.me:www/mobl-lang.org/update/
+sshsync --delete * zef@zerver2.zef.me:www/mobl-lang.org/update/
