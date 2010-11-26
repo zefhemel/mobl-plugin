@@ -2,7 +2,7 @@
 <feature
       id="org.mobl_lang.feature"
       label="mobl editor"
-      version="0.2.8"
+      version="0.2.8.qualifier"
       provider-name="Zef Hemel"
       plugin="mobl">
 
